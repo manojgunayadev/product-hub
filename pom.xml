@@ -67,9 +67,9 @@
     </distributionManagement-->
 
     <scm>
-        <url>https://github.com/manojgunayadev/product-hub-1.git</url>
-        <developerConnection>scm:git:https://github.com/manojgunayadev/product-hub-1.git</developerConnection>
-        <connection>scm:git:https://github.com/manojgunayadev/product-hub-1.git</connection>
+        <url>https://github.com/manojgunayadev/product-hub.git</url>
+        <developerConnection>scm:git:https://github.com/manojgunayadev/product-hub.git</developerConnection>
+        <connection>scm:git:https://github.com/manojgunayadev/product-hub.git</connection>
         <tag>HEAD</tag>
     </scm>
 
